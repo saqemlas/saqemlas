@@ -2,8 +2,6 @@
 
 #### [saqemlas.io](https://saqemlas.io/) 👋
 
-&nbsp;
-
 ```yaml
 tech:
   - [typescript, python, bash]
