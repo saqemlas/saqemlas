@@ -4,8 +4,10 @@
 
 ```yaml
 tech:
-  - [typescript, python, bash]
-  - [sql, graphql, dynamodb]
-  - [html, css, react, react native]
-  - [serverless, aws, docker, terraform]
+  backend:
+    - [typescript, python, bash]
+  database:
+    - [sql, graphql, dynamodb, elasticsearch]
+  cloud: 
+    - [aws, gcp, serverless, docker, terraform, kubernetes]
 ```
