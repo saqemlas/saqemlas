@@ -1,6 +1,7 @@
 # Salem Qemlas
 
-#### [saqemlas.io](https://saqemlas.io/) 👋
+## [saqemlas.io](https://saqemlas.io/) 👋
+
 
 ```yaml
 tech:
@@ -13,5 +14,3 @@ tech:
   cloud: 
     - [aws, gcp]
 ```
-
-![](https://komarev.com/ghpvc/?username=saqemlas&color=grey&style=plastic&label=Views)
